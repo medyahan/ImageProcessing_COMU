@@ -11,7 +11,7 @@ os.getcwd(), os.listdir()
 # In[1]:
 
 
-path = r"C:\Users\Cemre\Image_Processing"
+path = r"C:\Users\medya\ImageProcessing"
 file_name_with_path = path + "\cameraman.jpg"
 file_name_with_path
 
